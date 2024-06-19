@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page!
 
-<img src="https://img.freepik.com/premium-vector/gradient-welcome-lettering_638809-182.jpg?w=1380" alt="Welcome Image" width="1000" height="350">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Steam Image" width="1050" height="350">
 
 Hello! I'm Matthew Keaton, a proud U.S. Army veteran transitioning into the everchanging world of tech. I'm currently pursuing a Bachelor of Science degree in Computer Science with a focus on cybersecurity. Here, you'll find my projects and code as I learn and grow in this exciting field. 
 
