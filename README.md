@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me, message me on LinkedIn
 
--  [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/matthew-keaton-132810)
-&nbsp;
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matthew-keaton-132810)
 
 
 <!---
