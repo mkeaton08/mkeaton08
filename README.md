@@ -1,8 +1,8 @@
-# Welcome to My GitHub Page!
+# Hi there, I'm Matthew! 👋
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Steam Image" width="1050" height="350">
 
-Hello! I'm Matthew Keaton, a proud U.S. Army veteran transitioning into the everchanging world of tech. I'm currently pursuing a Bachelor of Science degree in Computer Science with a focus on cybersecurity. Here, you'll find my projects and code as I learn and grow in this exciting field. 
+I'm Matthew Keaton, a proud U.S. Army veteran transitioning into the everchanging world of tech. I'm currently pursuing a Bachelor of Science degree in Computer Science with a focus on cybersecurity. Here, you'll find my projects and code as I learn and grow in this exciting field. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-keaton-132810)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keaton_matt/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@keatoncmts43)
 
