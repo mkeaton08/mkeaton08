@@ -1,8 +1,8 @@
-### Hi there! 👋
+## Welcome to My GitHub Page!
 
-- 👀 I’m interested in becoming a cybersecurity professional
-- 🌱 I’m currently learning computer science
-- 📫 How to reach me, message me on LinkedIn
+Hello! I'm Matthew Keaton, a proud U.S. Army veteran transitioning into the everchanging world of tech. I'm currently pursuing a Bachelor or Science degree in Computer Science with a focus on cybersecurity. Here, you'll find my projects and code as I learn and grow in this exciting field. Let's connect!
+
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-keaton-132810)
