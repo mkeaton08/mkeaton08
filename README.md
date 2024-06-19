@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Matt Keaton
+### Hi there! 👋
+
 - 👀 I’m interested in becoming a cybersecurity professional
-- 🌱 I’m currently learning computer science at SNHU
-- 📫 How to reach me message me on LinkedIn
+- 🌱 I’m currently learning computer science
+- 📫 How to reach me, message me on LinkedIn
 
 
 <!---
