@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Page!
 
-Hello! I'm Matthew Keaton, a proud U.S. Army veteran transitioning into the everchanging world of tech. I'm currently pursuing a Bachelor or Science degree in Computer Science with a focus on cybersecurity. Here, you'll find my projects and code as I learn and grow in this exciting field. Let's connect!
+Hello! I'm Matthew Keaton, a proud U.S. Army veteran transitioning into the everchanging world of tech. I'm currently pursuing a Bachelor of Science degree in Computer Science with a focus on cybersecurity. Here, you'll find my projects and code as I learn and grow in this exciting field. 
 
 
 
